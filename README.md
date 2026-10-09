@@ -4,7 +4,7 @@ A mobile Tokyo food guide based on 36 places from the original food list. Includ
 
 ## GitHub Pages
 
-Publish from the `main` branch and `/docs` folder in Settings → Pages. No build step or server is required.
+Publish from the `main` branch and `/(root)` folder in Settings → Pages. No build step or server is required.
 
 The guide and its source food list are public on GitHub Pages. Personal ratings, notes and visits are stored only in the visitor’s browser.
 
